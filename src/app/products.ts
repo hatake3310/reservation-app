@@ -1,0 +1,38 @@
+export const products = [
+    {
+        coverImage: './assets/img/phone-cover.jpg',
+        name: 'Phone XL',
+        price: 799,
+        description: 'A large phone with one of the best screens',
+        heading1: '落とすのは想定内。',
+        heading2: '濡れるのも想定内。。',
+        heading3: 'この強さは想定外。',
+        heading1Description: 'Ceramic Shieldの前面は、どんなスマートフォンのガラスよりも頑丈です。',
+        heading2Description: 'iPhoneは防沫性能、耐水性能、防塵性能を備えています3。ご安心を。',
+        heading3Description: '航空宇宙産業レベルのアルミニウムを採用。ものすごく強いのに軽い筐体です。',
+    },
+    {
+        coverImage: './assets/img/phone-cover.jpg',
+        name: 'Phone Mini',
+        price: 699,
+        description: 'A great phone with one of the best cameras',
+        heading1: '大満足のバッテリー。',
+        heading2: '落としても、落ち着いて。',
+        heading3: '濡らしても、泣かないで。',
+        heading1Description: '効率的なチップ、進化したバッテリー、そしてiOS 17が連係してバッテリー駆動時間が大幅に向上。充電が必要になったら、iPhone SEをワイヤレス充電器の上に置くだけ。',
+        heading2Description: '耐久性の高いデザインとスマートフォンの中で最も頑丈なガラス。だから、大丈夫。',
+        heading3Description: '想像を超える耐水性能。だから、大丈夫。',
+    },
+    {
+        coverImage: './assets/img/phone-cover.jpg',
+        name: 'iPad Pro',
+        price: 1999,
+        description: '',
+        heading1: 'カメラ。',
+        heading2: 'Wi-Fi 6Eと5G。',
+        heading3: 'Apple Pencil。',
+        heading1Description: '撮影も、会話も、もっと深く。',
+        heading2Description: '速さを味方に。',
+        heading3Description: '無限の可能性。',
+    }
+];
